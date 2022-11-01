@@ -1,0 +1,89 @@
+   0 whoami
+   1 cd &
+   2 cd /
+   3 ls -a
+   4 ls -al
+   5 cd --help
+   6 ls -l
+   7 ls /bin
+   8 echo
+   9 echo servus
+  10 cd /opt
+  11 ls
+  12 pwd
+  13 mkdir test
+  14 ls
+  15 cd test
+  16 touch newfile.txt
+  17 ls
+  18 mkdir /opt/test2 touch /opt/test2/newfile2.txt
+  19 mkdir -p /opt/test/user/student touch /opt/test/user/student/file.txt
+  20 tree
+  21 cd
+  22 tree /opt
+  23 cp /opt/test/newfile.txt /root/321.txt
+  24 ls /opt
+  25 cd test2
+  26 cd /test2
+  27 tree
+  28 mv /opt/test/321.txt /root/321.txt
+  29 mv /opt/test/newfile.txt /root/newfile.txt
+  30 ls tree
+  31 ls
+  32 rmdir /opt/test
+  33 remdir --help
+  34 rmdir --help
+  35 re -rf /opt/test
+  36 rm -rf /opt/test
+  37 ls
+  38 tree
+  39 ls tree
+  40 rm -rf /opt/test2
+  41 ls
+  42 ls tree
+  43 tree
+  44 cd 
+  45 cd /
+  46 ls
+  47 cd /op
+  48  opt/
+  49 cd
+  50  opt/
+  51 ls
+  52 cd -1l
+  53 cd -1
+  54 cd -l
+  55 cd /
+  56 ls
+  57 cd -l
+  58 ls -l
+  59 ls -1
+  60 cd /opt
+  61 ls
+  62 cd
+  63 ls
+  64 cat /321.txt
+  65 cat 321.txt
+  66 cat readme.txt
+  67 cd bin/var/log
+  68 cd bin
+  69 cd /bin
+  70 ls
+  71 syslogd
+  72 ls
+  73 clear
+  74 history
+  75 cat /etc/os-release
+  76 ls /ets
+  77 ls /etc
+  78 cat /proc/cpuinfo
+  79 cd
+  80 date
+  81 cal
+  82 df -h
+  83 cal 2022
+  84 top
+  85 df
+  86 df -h
+  87 history
+  88 history > history.txt
